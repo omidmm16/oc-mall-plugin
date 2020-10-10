@@ -257,7 +257,7 @@
         'payments'             => 'پرداخت ها',
         'image'                => 'عکس',
         'color'                => 'رنگ',
-        'unit'                 => 'واح',
+        'unit'                 => 'واحد',
         'dont_group'           => '-- Do not group',
         'properties'           => 'ویژگی ها',
         'old_price'            => ' قیمت قدیمی',
